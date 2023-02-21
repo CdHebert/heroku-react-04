@@ -1,7 +1,7 @@
 import React  from 'react';    // , { Component }
 
 import '../index.css';
-import profile from '../img/bennygabel.jpg'
+import profile from '../img/BennyGabel.jpg'
 // import 'bootstrap/dist/css/bootstrap.min.css'
 // import { CarouselItem } from 'react-bootstrap';
 
